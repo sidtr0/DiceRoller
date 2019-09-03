@@ -3,7 +3,7 @@
 #!
 #! Asks the user for the number of 
 #! sides and generates random value 
-#! between and given range. 
+#! between a given range. 
 
 import random as random
 
